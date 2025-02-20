@@ -17,7 +17,7 @@ Harassment includes, but _is not limited to_:
 ⛔ Unwelcome sexual attention  
 
 ## *Microaggressions*
-Incidents can take the form of “microaggressions,” which is a damaging form of harassment. Microaggressions are the everyday slights or insults that communicate negative messages to target individuals, often based upon their marginalized group membership. Over time, microaggressions can take a great toll on mental and emotional health and the target’s feeling of belonging in science and academia. The following examples can all be labeled micro-aggressions:  
+Incidents can take the form of “microaggressions,” which is a damaging form of harassment. Microaggressions are the everyday slights or insults that communicate negative messages to target individuals, often based upon their marginalized group membership. Over time, microaggressions can take a great toll on mental and emotional health and the target’s feeling of belonging in science and academia. The following examples can all be labeled microaggressions:  
 ⛔ Commenting on a woman’s appearance rather than her work;  
 ⛔ Only directing questions at male colleagues when there are female experts in the room;  
 ⛔ Telling someone of color that they “speak such good English”;  
@@ -62,7 +62,7 @@ gut durchs Studium](https://www.uni-frankfurt.de/98672010/leitfaden_gu_inklusion
 
 ## *Reporting Issues*
 
-Any incident of unacceptable behavior hurts the learning environment for everyone. We are therefore committed to supporting students in accessing corresponding reporting resources and ensuring a supportive environment.
+Any incident of unacceptable behaviour damages the learning environment for everyone. We are therefore committed to supporting students in accessing reporting resources and ensuring a supportive environment.
 
 When necessary, an organizer will assist students in filing a report at the appropriate university office. Complaints can be filed, without limitation periods, for any incident of harassment that has occurred in the course of university activities, whether on or off campus.
 
@@ -70,4 +70,4 @@ Also, if you need moral support, feel welcome to ping the organizers in person o
 
 
 ## Attribution
-Thanks and credits go to the [Montreal Brainhack School]() for providing the CoC, which this CoC is based on.
+Thanks and credits go to the [Montreal Brainhack School](https://school.brainhackmtl.org/) for providing the CoC, which this CoC is based on.
